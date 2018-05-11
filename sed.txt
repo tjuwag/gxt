@@ -7,4 +7,6 @@ sync:x:5:0:sync:/sbin:/bin/sync
 shutdown:x:6:0:shutdown:/sbin:/sbin/shutdown
 halt:x:7:0:halt:/sbin:/sbin/halt
 mail:x:8:12:mail:/var/spool/mail:/sbin/nologin
-operator:x:11:0:operator:/root:/sbin/nologin
+adaoperator:x:11:0:operator:/root:/sbin/nologin
+sadsacxzslcm,ofa
+asds;alkds;
